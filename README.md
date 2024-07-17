@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Nuxt**
 
-- 💬 Ask me about **Tailwind CSS**
-
 - 📫 How to reach me **alcal.rs221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
